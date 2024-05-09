@@ -1,0 +1,15 @@
+{
+  "name": "zk-cli-dev",
+  "version": "1.0.0",
+  "description": "zk-cli-description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^8.1.2"
+  }
+}
