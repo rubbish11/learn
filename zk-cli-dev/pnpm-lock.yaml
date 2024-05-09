@@ -11,7 +11,7 @@ importers:
   packages/core:
     dependencies:
       '@zk-cli/utils':
-        specifier: '*'
+        specifier: ^1.0.1
         version: link:../utils
       axios:
         specifier: ^1.6.8
