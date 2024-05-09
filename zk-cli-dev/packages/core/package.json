@@ -23,8 +23,12 @@
   "bugs": {
     "url": "https://github.com/rubbish11/learn/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@zk-cli/utils": "^1.0.1",
     "axios": "^1.6.8"
-  }
+  },
+  "gitHead": "58770cfb800a811bee4bfe0d2aaf5bca806021bf"
 }
