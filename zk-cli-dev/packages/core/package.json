@@ -1,6 +1,6 @@
 {
   "name": "@zk-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "@zk-cli/core",
   "author": "hezk <hezk@citycloud.com.cn>",
   "homepage": "https://github.com/rubbish11/learn#readme",
@@ -27,7 +27,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@zk-cli/utils": "^1.0.2",
+    "@zk-cli/utils": "^1.0.3",
     "axios": "^1.6.8"
   },
   "gitHead": "38538838f20cde5190327665c53d538d93d89de2"
