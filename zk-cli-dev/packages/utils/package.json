@@ -1,0 +1,29 @@
+{
+  "name": "@zk-cli/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "hezk <hezk@citycloud.com.cn>",
+  "homepage": "https://github.com/rubbish11/learn#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubbish11/learn.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rubbish11/learn/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
